@@ -1,1 +1,2 @@
-# equipanacatwo
+# EQUIPanaca
+somos muito panacas

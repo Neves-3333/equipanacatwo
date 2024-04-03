@@ -1,0 +1,45 @@
+:root{
+    --cor-de-fundo: #44e84f;
+}
+body{
+    background-color: var(--cor-de-fundo);
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+img{
+    width: 10%;
+}
+header{
+display: flex;
+align-items: center;
+justify-content: space-around;
+}
+
+/*https://www.figma.com/file/q9FnAMdvpvCbQCTrAH56WU/Untitled?type=design&node-id=0-1&mode=design&t=obhbsYWlYw4VWHiA-0*/
+
+
+
+.whey{
+width: 250%;
+}
+.strap{
+width: 150%;
+}
+.roupas{
+width: 150%;
+}
+.halter{
+width: 150%;
+}
+.introducao{
+display: flex;
+background-color: white;
+    border-radius: 100px;
+    border: 3px solid red;
+}
+.EQUIPanaca{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    text-align: center;
+}
