@@ -1,2 +1,2 @@
-# EQUIPanaca
+# EQUIPanacaAntesDasLoiras
 somos muito panacas
