@@ -38,7 +38,7 @@ background-color: white;
     border-radius: 100px;
     border: 3px solid rgba(18, 131, 62, 0.836);
 }
-.EQUIPanaca{
+#EQUIPanaca{
     display: grid;
     grid-template-columns: 33% 33% 33%;
     text-align: center;
