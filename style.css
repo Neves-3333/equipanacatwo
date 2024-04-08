@@ -1,5 +1,5 @@
 :root{
-    --cor-de-fundo: #44e84f;
+    --cor-de-fundo: #ffffff;
 }
 body{
     background-color: var(--cor-de-fundo);
@@ -36,7 +36,7 @@ width: 150%;
 display: flex;
 background-color: white;
     border-radius: 100px;
-    border: 3px solid red;
+    border: 3px solid rgba(52, 201, 126, 0.836);
 }
 .EQUIPanaca{
     display: grid;
