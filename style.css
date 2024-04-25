@@ -81,10 +81,12 @@ span {
 
 footer{
 font-size: 30px;
+text-align: center;
+text-align: var(#668966);
 }
 
 section{
     text-align: center;
     font-size: 70px;
-    background-color: #669839; font-size: 70px;
+    background-color: #669839;
 }
