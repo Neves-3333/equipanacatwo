@@ -18,7 +18,7 @@ img {
 }
 
 header {
-    display: grid;
+    display: flex;
     align-items: center;
     justify-content: space-around;
     font-size: 30px;
@@ -46,7 +46,7 @@ header {
 }
 
 .introducao {
-    display: flex;
+    display: grid;
     background-color: white;
     border-radius: 100px;
     border: 3px solid rgba(18, 131, 62, 0.836);
@@ -91,4 +91,8 @@ section{
     text-align: center;
     font-size: 70px;
     background-color: #669839;
+}
+
+.estrelinhas{
+    width: 31%;
 }
