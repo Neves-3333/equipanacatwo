@@ -68,6 +68,7 @@ header {
 
 .migueltraira {
     width: 70%;
+    grid-template-columns: 33% 33% 33%;
 }
 
 .titulo {
