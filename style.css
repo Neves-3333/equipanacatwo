@@ -18,10 +18,11 @@ img {
 }
 
 header {
-    display: flex;
+    display: grid;
     align-items: center;
     justify-content: space-around;
     font-size: 30px;
+    ruby-align: center;
 }
 
 /*https://www.figma.com/file/q9FnAMdvpvCbQCTrAH56WU/Untitled?type=design&node-id=0-1&mode=design&t=obhbsYWlYw4VWHiA-0*/
